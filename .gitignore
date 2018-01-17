@@ -1,3 +1,4 @@
+.DS_Store
 /babel.js
 /babel.min.js
 packages/babili-standalone/babili.js
